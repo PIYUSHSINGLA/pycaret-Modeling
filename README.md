@@ -1,2 +1,1 @@
-# pycaret-Modeling
-Building Machine Learning Models using PYCARET Package
+# Building Machine Learning Models using [PYCARET](https://pycaret.org/) Package
